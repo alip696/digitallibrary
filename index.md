@@ -18,6 +18,6 @@ Berikut ini adalah koleksi yang dimiliki
 11. [Resume VR].(ebook/Resume VR.pdf) - Alif Faturrohman(13040123140138)
 ---
 
-https://alip696.github.io/digitallibrary/webti/halaman1.html
+[halaman1].(webti/halaman1.html) 
 
 *powered by Github pages*
