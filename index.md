@@ -7,7 +7,7 @@ Berikut ini adalah koleksi yang dimiliki
 
 1. [ISLAM AGAMAKU](ebook/bukuislamagamaku.pdf) - burhanuddin TR. (2016)
 2. [dilan](ebook/dilan.pdf) - pidi Baiq(2014)
-3. [ngenest](ebook/ngenest.pdf) - ernest prakasa (2013)
+3. [ngenest](ebook/ngenest(1).pdf) - ernest prakasa (2013)
 4. [pengantar filsafat umum](ebook/pengantar-filsafat-umum.pdf) - nurani soyomukti (2013)
 5. [tentang kamu](ebook/Tereliye-tentangkamu.pdf) - tere liye (2016)
 6. [milea](ebook/milea.pdf) - Pidi Baiq (2016)
