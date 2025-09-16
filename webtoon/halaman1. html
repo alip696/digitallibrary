@@ -3,7 +3,6 @@
 <TITLE>Judul dokumen</TITLE>
 </HEAD>
 
-
 <body> 
 <h1 style="background-color:grey;">
 <marquee scrollamount="10" direction="up"><font color="violet" face="White">Ini halaman 1</font></h1>
