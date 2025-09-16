@@ -5,7 +5,7 @@ Selamat Datang di Perpustakaan Digital
 Berikut ini adalah koleksi yang dimiliki
 ## Koleksi
 
-1. [ISLAM AGAMAKU](ebook/buku islam agamaku.pdf) - burhanuddin TR. (2016)
+1. [ISLAM AGAMAKU](ebook/bukuislamagamaku.pdf) - burhanuddin TR. (2016)
 2. [dilan](ebook/dilan.pdf) - pidi Baiq(2014)
 3. [ngenest](ebook/ngenest.pdf) - ernest prakasa (2013)
 4. [pengantar filsafat umum](ebook/pengantar-filsafat-umum.pdf) - nurani soyomukti (2013)
